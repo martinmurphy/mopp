@@ -1,3 +1,3 @@
-module mopp
+module martinmurphy.com/morse/mopp
 
-go 1.15
+go 1.16
